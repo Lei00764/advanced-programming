@@ -10,6 +10,11 @@
 └─report
 ```
 
+## Summary
+
+In this course, I have written about **14044** lines of C/C++ code in total.
+
+## Contact
 
 Feel free to contact me if you have any questions. 
 
